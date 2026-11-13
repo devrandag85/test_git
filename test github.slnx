@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="test github/test github.vcxproj" Id="6c52365f-4934-479e-9a63-ff240fefc1f0" />
+</Solution>
